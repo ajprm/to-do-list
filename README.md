@@ -48,13 +48,14 @@ O menu exibe as opções disponíveis para o usuário interagir com a lista:
 
 O seguinte menu será exibido ao usuário:
 
-**[ 1 ] Adicionar item
+**[ 1 ] Adicionar item**
 
-[ 2 ] Remover item
+**[ 2 ] Remover item**
 
-[ 3 ] Check Item
+**[ 3 ] Check Item**
 
-[ 4 ] Apagar Lista
+**[ 4 ] Apagar Lista**
 
-[ 5 ] Sair**
+**[ 5 ] Sair**
+
 O usuário pode interagir com o programa, adicionar itens à lista, removê-los ou marcá-los como concluídos de acordo com as opções escolhidas.
