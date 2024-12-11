@@ -47,8 +47,8 @@ O menu exibe as opções disponíveis para o usuário interagir com a lista:
 ## Exemplo de Uso
 
 O seguinte menu será exibido ao usuário:
-**
-[ 1 ] Adicionar item
+
+**[ 1 ] Adicionar item
 
 [ 2 ] Remover item
 
