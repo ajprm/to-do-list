@@ -20,9 +20,13 @@ O aplicativo possui as seguintes funcionalidades:
 
 O menu exibe as opções disponíveis para o usuário interagir com a lista:
 [ 1 ] Adicionar item
+
 [ 2 ] Remover item
+
 [ 3 ] Check Item
+
 [ 4 ] Apagar Lista
+
 [ 5 ] Sair
 
 ## Tecnologias Utilizadas
