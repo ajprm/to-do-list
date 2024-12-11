@@ -19,6 +19,7 @@ O aplicativo possui as seguintes funcionalidades:
 ### Menu de Opções
 
 O menu exibe as opções disponíveis para o usuário interagir com a lista:
+
 [ 1 ] Adicionar item
 
 [ 2 ] Remover item
